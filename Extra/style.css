@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+data h2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    color: gainsboro;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: small;
+}
+
+.esp{
+    background: #151819;
+    box-shadow: 0.01em 0.01em 0.6em aqua;
+    border-radius: 1em;
+    position: relative;
+
+}
+.esp h2{
+   display: flex;
+   justify-content: center;
+   position: relative;
+   top: 0.5em;
+   font-family: 'Rajdhani', sans-serif;
+   color: lightgray;
+   text-shadow: 0.1em 0.1em 0.1em black;
+}
+
+.esp p{
+    font-family: 'Rajdhani', sans-serif;
+    color: #616d72;                     
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    position: relative;
+    bottom: 1em;
+}
+
+.neg{
+    background: #151819;
+    box-shadow: 0.01em 0.01em 0.6em dodgerblue;
+    border-radius: 1em;
+    position: relative;
+
+}
+.neg h2{
+   display: flex;
+   justify-content: center;
+   position: relative;
+   top: 0.5em;
+   font-family: 'Rajdhani', sans-serif;
+   color: lightgray;
+   text-shadow: 0.1em 0.1em 0.1em black;
+}
+
+.neg p{
+    font-family: 'Rajdhani', sans-serif;
+    color: #616d72;                     
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    position: relative;
+    bottom: 1em;
+}
+
+.fontes h2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    color: gainsboro;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: small;
+    top: 1em;
+}
+
+.fontes .a{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 1.2em;
+}
+
+.fontes a{
+    color: gainsboro;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: small;   
+    margin: 1em;            
+}
